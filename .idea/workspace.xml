@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99922272-d3c7-4323-bcd2-d1c81b5cdf4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/bg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ca@valencia.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ca@valencia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/el.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/el.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/et.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/et.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/fi-FI.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/fi-FI.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/gl.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/gl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/gu.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/gu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/he.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/he.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/id.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/id.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/is-IS.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/is-IS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/it.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/km.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/km.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/lv.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/lv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ne.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ne.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/nl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/nv.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/nv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/pa.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/pa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/pirate.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/pirate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/pl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/pt-BR.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/pt-BR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/pt-PT.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/pt-PT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ro.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/sl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/sv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/ta.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/ta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/th.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/th.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/vi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/zh-Hant.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/zh-Hant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/locales/zh.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/locales/zh.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2fB4FngTwl1AsqROXQPuaOEf0xF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99922272-d3c7-4323-bcd2-d1c81b5cdf4e" name="Changes" comment="" />
+      <created>1713261042918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713261042918</updated>
+      <workItem from="1713261046533" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
